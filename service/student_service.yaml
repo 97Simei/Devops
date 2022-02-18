@@ -39,7 +39,7 @@ spec:
     spec:
       containers:
       - image: lsiimei/student_service
-        name: service
+        name: lsiimei/student_service
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
