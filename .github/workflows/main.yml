@@ -2,8 +2,7 @@ name: Builb Test and push
 on: [push]
 env:
   IMAGE_NAME: student_service
-  REPO_NAME: lisimei
-  
+  REPO_NAME: lsiimei
 
 
 jobs:
